@@ -1,0 +1,3 @@
+## Lean4 implementation of MiniF2F dataset
+### All credit to the original authors of [MiniF2F](https://github.com/openai/miniF2F). This repository is a reformatting of work done by the [Hoskinson Center for Formal Mathematics](https://www.cmu.edu/hoskinson/) for porting MiniF2F to Lean4, as done [here](https://huggingface.co/datasets/hoskinson-center/minif2f-lean4)
+### This repository is simply to have the MiniF2F dataset as a set of .lean files similar to the original MiniF2F, hosted on GitHub to be used by projects such as [LeanDojo](https://leandojo.org/). I have no affiliation with the original authors or with the Hoskinson Center.
